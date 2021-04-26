@@ -1,2 +1,3 @@
-# piLaSense-Sensor
-An IOT system that makes use of Laravel and Raspberry Pi's. 
+# piLaSense
+
+The piLaSense was developed using Laravel and Raspberry Pi's, hence the name. It was originally conceived as a weather station for collecting weather based data. It has since been re-evaluated as a multi purpose sensor system that collects temperature, humidity, altitude, and pressure. This system can be used for detecting changes in the environment. This may be applicable for gardens/greenhouses, storage facilities, infant/elderly care, etc. The system provides feedback indicators in the form of LEDs, this may be further developed to use emailing or mobile phone notifications. These LEDs are activated based on temperature boundaries that can be set/adjusted in the web interface. The web interface is provided using Laravel. In this web interface data is also presented in a chart for easy data access.
